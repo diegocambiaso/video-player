@@ -1,5 +1,5 @@
 # Video Player
-How to ply videos with Python
+How to play videos with Python
 
 ## Video player using VLC module
 How to reproduce a video using a VLC module
