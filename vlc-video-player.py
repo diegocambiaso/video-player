@@ -12,4 +12,5 @@ media_list.add_media(media)
 media_player.set_media_list(media_list)
 media_player.play()
 
-time.sleep(5)
+# Wait (review changes pending)
+time.sleep(50)
