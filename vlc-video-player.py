@@ -1,3 +1,7 @@
+# we need to fix the time problem
+
+__version__ = 0.1
+
 import vlc
 import time
 
